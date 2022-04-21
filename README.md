@@ -1,2 +1,2 @@
-# Git Github
- Curso de git e github aula de branchs
+# Repertório para treinar HTML5 e CSS
+apenas por diversão
